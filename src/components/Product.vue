@@ -35,7 +35,7 @@
             Detaylar
           </v-btn>
           <v-bottom-sheet v-model="sheet" persistent class="c-rounded elevation-0">
-            <v-img src="..\assets\bg\bundan-ust.svg" class="wave-img">
+            <v-img src="..\assets\bg\wave-flat.png" class="wave-img">
               <v-avatar
                   size="28"
                   :color="!threed ? 'grey lighten-5' : 'grey lighten-2'"
